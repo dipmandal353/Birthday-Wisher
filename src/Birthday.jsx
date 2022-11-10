@@ -108,7 +108,7 @@ const Birthday = ({ name, day, month }) => {
       {!isItBday && (
         <>
           <div className='birthdate'>
-            Birth-Date: {day} {monthBday} {currentYear}
+            Birth-Date: {day} {monthBday} 
           </div>
           <div className='credits'>
             <a href='https://github.com/dipmandal353/Birthday-Wisher'>
